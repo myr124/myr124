@@ -32,7 +32,7 @@ I'm always up for discussing CS concepts, debugging code, or brainstorming ideas
 
 ## 📫 Contact Me
 - Email: ericgeorge@example.com (replace with your actual email)  
-- LinkedIn: [ linkedin.com/in/eric-george-90a26a278]( linkedin.com/in/eric-george-90a26a278)  
+- LinkedIn: [ linkedin.com/in/eric-george-90a26a278](https://linkedin.com/in/eric-george-90a26a278)  
 - GitHub: [github.com/myr124](https://github.com/myr124)
 
 Thanks for visiting! Feel free to reach out if you'd like to connect. 🚀
