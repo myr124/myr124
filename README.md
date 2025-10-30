@@ -9,13 +9,13 @@ Hi there! 👋 I'm Eric George, a Computer Science student at the University of 
 
 ## 🛠️ Skills & Interests
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="24" height="24">
+<div style="text-align: center;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="24" height="24" style="margin-right: 10px; filter: brightness(0) invert(1);"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="24" height="24" style="margin-right: 10px; filter: brightness(0) invert(1);"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="24" height="24" style="margin-right: 10px; filter: brightness(0) invert(1);"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="24" height="24" style="margin-right: 10px; filter: brightness(0) invert(1);"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="24" height="24" style="margin-right: 10px; filter: brightness(0) invert(1);"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="24" height="24" style="margin-right: 10px; filter: brightness(0) invert(1);"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="24" height="24" style="filter: brightness(0) invert(1);">
+</div>
 
 - Other: Data Structures, Operating Systems, Software Engineering Principles  
 - Currently exploring: Machine Learning, Full-Stack Development
 
-## 📂 Featured Projects
-(Coming soon – stay tuned for my portfolio of projects from coursework and personal experiments!)
 
 ## 🌱 What I'm Currently Learning
 - Advanced algorithms and data structures  
