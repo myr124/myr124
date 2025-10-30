@@ -9,7 +9,7 @@ Hi there! 👋 I'm Eric George, a Computer Science student at the University of 
 
 ## 🛠️ Skills & Interests
 
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg) ![Java](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg) ![C++](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg) ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg) ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg) ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg) ![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="24" height="24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="24" height="24">
 
 - Other: Data Structures, Operating Systems, Software Engineering Principles  
 - Currently exploring: Machine Learning, Full-Stack Development
