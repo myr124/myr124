@@ -8,8 +8,9 @@ Hi there! 👋 I'm Eric George, a Computer Science student at the University of 
   Expected Graduation: 2027
 
 ## 🛠️ Skills & Interests
-- Programming Languages: Python, Java, C++, JavaScript  
-- Web Development: HTML, CSS, React  
+
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg) ![Java](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg) ![C++](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg) ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg) ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg) ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg) ![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg)
+
 - Other: Data Structures, Operating Systems, Software Engineering Principles  
 - Currently exploring: Machine Learning, Full-Stack Development
 
