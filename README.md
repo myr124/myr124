@@ -1,6 +1,6 @@
 # Eric George
 
-Hi there! 👋 I'm Eric George, a Computer Science student at the University of Central Florida (UCF). I'm expected to graduate in 2027 and am passionate about software development, algorithms, and emerging technologies like AI and machine learning.
+Hi there! 👋 I'm Eric George, a Computer Science student at the University of Central Florida (UCF). I'm expected to graduate in 2027 and am passionate about software development, especially in full-stack development and machine learning.
 
 ## 📚 Education
 - **Bachelor of Science in Computer Science**  
@@ -9,29 +9,27 @@ Hi there! 👋 I'm Eric George, a Computer Science student at the University of 
 
 ## 🛠️ Skills & Interests
 
-<div style="text-align: center;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg?color=white" width="24" height="24" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg?color=white" width="24" height="24" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg?color=white" width="24" height="24" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg?color=white" width="24" height="24" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg?color=white" width="24" height="24" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg?color=white" width="24" height="24" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg?color=white" width="24" height="24">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,py,cpp,html,css,react,nextjs,tailwind,supabase,fastapi,aws,docker,nodejs,postgres,prisma,mongodb,git,linux&perline=10" />
+  </a>
+</p>
 
-- Other: Data Structures, Operating Systems, Software Engineering Principles  
-- Currently exploring: Machine Learning, Full-Stack Development
+- **Languages:** JavaScript, TypeScript, Java, Python, C/C++, SQL, HTML/CSS
+- **Frameworks & Technologies:** React, Next.js, TailwindCSS, Supabase, FastAPI, AWS, Docker, NodeJS, PostgreSQL, tRPC, Prisma, MongoDB, OpenCV, Mediapipe
+- **Tools & Concepts:** Git, CI/CD, Linux, Unit Testing, Agile, REST APIs
 
 
 ## 🌱 What I'm Currently Learning
-- Advanced algorithms and data structures  
 - Cloud computing and DevOps practices  
 - Building scalable web applications
+- Machine Learning and AI
+- Computer Vision
+- Managing team projects
 
-## 👯 Looking to Collaborate On
-- Open-source contributions in AI/ML or web tech  
-- Educational projects or study groups in CS topics  
-- Hackathons and coding challenges
-
-## 🤔 Need Help With?
-I'm always up for discussing CS concepts, debugging code, or brainstorming ideas!
 
 ## 📫 Contact Me
-- Email: ericgeorge@example.com (replace with your actual email)  
+- Email: ericgeo324@gmail.com  
 - LinkedIn: [ linkedin.com/in/eric-george-90a26a278](https://linkedin.com/in/eric-george-90a26a278)  
 - GitHub: [github.com/myr124](https://github.com/myr124)
 
