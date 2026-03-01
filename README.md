@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Eric George, a Computer Science student at the University of Central Florida (UCF). I'm expected to graduate in 2027 and am passionate about software development, especially in full-stack development and machine learning.
 
-I love building solutions to real issues. Check out all my projects on my portfolio: [ericgeorge.dev]{https://ericgeorge.dev}
+I love building solutions to real issues. Check out all my projects on my portfolio: [ericgeorge.dev](https://ericgeorge.dev)
 
 ## 📚 Education
 - **Bachelor of Science in Computer Science**  
